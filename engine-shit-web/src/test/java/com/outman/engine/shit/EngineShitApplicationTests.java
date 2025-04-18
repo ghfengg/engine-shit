@@ -1,4 +1,4 @@
-package com.example.engine_shit;
+package com.outman.engine.shit;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
